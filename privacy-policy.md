@@ -1,3 +1,4 @@
+ENGLISH
 Privacy Policy
 
 Melih Hakan Pektas built the Teacher Calendar app as a Freemium app. This SERVICE is provided by Melih Hakan Pektas at no cost and is intended for use as is.
@@ -63,8 +64,134 @@ Changes to This Privacy Policy
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2023-01-24
+INFORMATION TEXT REGARDING THE PROTECTION OF PERSONAL DATA
+
+As Melih Hakan Pektaş, the protection of your personal data is of great importance to us. This Disclosure Text explains how our application processes your personal data.
+
+Data Controller and Contact Information
+Your personal data is processed by Melih Hakan Pektaş as the Data Controller.
+Melih Hakan Pektaş is the owner and manager of the application.
+You can use the following contact information to get in touch with Melih Hakan Pektaş:
+Email: melihhakanpektas@gmail.com
+Processed Personal Data and Processing Purposes
+The personal data we collect during your use of our application are as follows:
+• Your name
+• Your email address
+• Your phone number
+• Student information (Name, email address, phone number)
+• Lesson fee information
+• Lesson schedule information
+Your personal data is used to provide you with a service in our application. In particular, your personal data is processed so that teachers can record their students' personal information, create their lesson schedules, and students can see these lesson schedules in our application.
+Transfer of Personal Data
+Your personal data is stored on our application's server as long as it is necessary for the use of our application. Also, some of your personal information, such as the name and phone number of your teacher, which is sent to your email address in confirmation requests, can be viewed on your teacher's account when your student request is accepted.
+Storage of Personal Data
+Your personal data is securely stored on our application's server. Appropriate security measures are taken to protect your data's privacy and against unauthorized access.
+Your Rights Regarding the Processing of Personal Data
+Under the KVKK, you have the following rights regarding the processing of your personal data:
+• The right to access your personal data: You can always apply to us to find out which personal data we have about you.
+• The right to correct your personal data: If your personal data is incorrect, you can request us to update or correct this information.
+• The right to erase your personal data: If your personal data is no longer needed or you object to the processing of your data, you can request us to erase your personal data.
+• The right to object to the processing of your personal data: You can object to the processing of your personal data for a specific purpose.
+• The right to data portability: You can request a format that will allow you to transfer your personal data to another data controller.
+If you want to exercise these rights, you can send your request to us via email or post. We will do our best to respond to you and fulfill your request.
+Changes to the Disclosure Text
+When it is necessary to update this Disclosure Text, we will notify you of these changes. Also, the updated Disclosure Text will always be available on our website.
+If you have any questions or concerns about this Disclosure Text, you can always contact us via email or post.
+
+This policy and information text is effective as of 2023-01-24
 
 Contact Us
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at melihhakanpektas@gmail.com.
+
+
+TÜRKÇE
+
+Gizlilik Politikası
+
+Melih Hakan Pektaş, Öğretmen Takvimi uygulamasını ücretsiz olarak sunan bir Freemium uygulaması olarak geliştirmiştir. Bu HİZMET, Melih Hakan Pektaş tarafından hiçbir maliyet talep edilmeden sağlanmaktadır ve olduğu gibi kullanılması amaçlanmaktadır.
+
+Bu sayfa, ziyaretçilerin Hizmetimi kullanmayı tercih etmeleri durumunda kişisel bilgilerin toplanması, kullanımı ve açıklanması ile ilgili politikalarım hakkında bilgi vermek için kullanılır.
+
+Hizmetimi kullanmayı tercih ederseniz, bu politikaya ilişkin olarak bilgilerin toplanması ve kullanımı konusunda kabulde bulunursunuz. Topladığım Kişisel Bilgiler, Hizmeti sağlamak ve geliştirmek için kullanılır. Bu Gizlilik Politikası'nda açıklandığı şekilde başka kimseyle paylaşmayacağım veya kullanmayacağım.
+
+Bu Gizlilik Politikası'nda tanımlanan terimler, öğretmen takvimine erişilebilen Şartlar ve Koşullarımızda tanımlanmadıkça aynı anlama sahiptir.
+
+Bilgi Toplama ve Kullanımı
+
+Hizmetimizi kullanırken daha iyi bir deneyim için ad, e-posta, telefon numarası gibi kişisel kimlik bilgilerinizi belirtmenizi isteyebilirim. İstediğim bilgiler, cihazınızda saklanacak ve herhangi bir şekilde benden toplanmayacaktır.
+
+Uygulama, sizi tanımlamak için kullanılabilecek bilgileri toplayabilecek üçüncü taraf hizmetlerini kullanır.
+
+Uygulama tarafından kullanılan üçüncü taraf hizmet sağlayıcılarının gizlilik politikalarına bağlantı
+
+Google Play Hizmetleri => https://policies.google.com/privacy
+
+Google Analytics for Firebase => https://firebase.google.com/policies/analytics
+
+Firebase Crashlytics => https://firebase.google.com/support/privacy/
+
+RevenueCat => https://www.revenuecat.com/privacy/
+
+Kayıt Verileri
+
+Hizmetimi kullanırken, uygulamada bir hatayla karşılaşırsanız (üçüncü taraf ürünler aracılığıyla) telefonunuzda Log Verileri olarak adlandırılan veri ve bilgi toplarım. Bu Kayıt Verileri, cihazınızın İnternet Protokolü ("IP") adresi, cihaz adı, işletim sistemi sürümü, Hizmetimi kullanırken uygulama yapılandırması, Hizmetimin kullanım tarihi ve saati ve diğer istatistikler gibi bilgileri içerebilir.
+
+Hizmet Sağlayıcıları
+
+Aşağıdaki nedenlerden dolayı üçüncü taraf şirketler ve bireyler kullanabiliriz:
+
+Hizmetimizi kolaylaştırmak; Hizmeti adımıza sağlamak; Hizmetle ilgili hizmetleri gerçekleştirmek; veya Hizmetimin nasıl kullanıldığını analiz etmemize yardımcı olmak. Bu Hizmetin kullanıcılarına bu üçüncü tarafların Kişisel Bilgilerine erişimi olduğunu bildirmek istiyorum. Sebep, görevleri bizim adımıza yerine getirmek içindir. Ancak, bilgiyi başka bir amaç için açıklamamaları veya kullanmamaları için yükümlüdürler.
+
+Güvenlik
+
+Kişisel Bilgilerinizi bize sağladığınız için güveninize önem veriyoruz, bu nedenle ticari olarak kabul edilebilir koruma yöntemleri kullanmaya çalışıyoruz. Ancak, internet üzerinden iletim yöntemi veya elektronik depolama yöntemi% 100 güvenli ve güvenilir değildir ve mutlak güvenliğini garanti edemeyiz.
+
+Diğer Sitelere Bağlantılar
+
+Bu Hizmet, diğer sitelere bağlantılar içerebilir. Üçüncü taraf bir bağlantıya tıklarsanız, o siteye yönlendirileceksiniz. Dış sitelerin benim tarafımdan işletilmediğini unutmayın. Bu nedenle, bu web sitelerinin içeriğini, gizlilik politikalarını veya uygulamalarını kontrol etmenizi şiddetle tavsiye ediyorum. Üçüncü taraf sitelerin veya hizmetlerin içeriği, gizlilik politikaları veya uygulamaları üzerinde hiçbir kontrolüm yoktur ve bu nedenle hiçbir sorumluluk kabul etmemekteyim.
+
+Çocukların Gizliliği
+
+Bu hizmet, 13 yaşın altındaki herhangi bir kişiyi hedeflemez. Bilerek 13 yaşın altındaki çocuklardan kişisel bilgi toplamıyorum. 13 yaşın altındaki bir çocuğun bana kişisel bilgi sağladığını keşfedersem, bu bilgiyi hemen sunucularımızdan silerim. Ebeveyn veya vasiler ve çocuğunuzun bize kişisel bilgi sağladığını fark ederseniz, gerekli işlemleri yapabilmemiz için lütfen bana ulaşın.
+
+Bu Gizlilik Politikasında Yapılan Değişiklikler
+
+Bu Gizlilik Politikasını zaman zaman güncelleyebilirim. Bu nedenle, herhangi bir değişiklik olup olmadığını kontrol etmek için bu sayfayı periyodik olarak gözden geçirmeniz önerilir. Herhangi bir değişiklik olması durumunda, yeni Gizlilik Politikasını bu sayfada yayınlayarak sizi bilgilendireceğim.
+
+Melih Hakan Pektaş olarak, kişisel verilerinizin korunması bizim için son derece önemlidir. Bu Aydınlatma Metni, uygulamamızın kişisel verilerinizi nasıl işlediğini açıklamaktadır.
+1.	Veri Sorumlusu ve İletişim Bilgileri
+Kişisel verileriniz, Veri Sorumlusu sıfatıyla Melih Hakan Pektaş tarafından işlenmektedir.
+Melih Hakan Pektaş, uygulamanın sahibi ve yöneticisidir.
+Melih Hakan Pektaş ile iletişime geçmek için aşağıdaki iletişim bilgilerini kullanabilirsiniz:
+E-posta: melihhakanpektas@gmail.com
+2.	İşlenen Kişisel Veriler ve İşleme Amaçları
+Uygulamamızı kullanmanız sırasında topladığımız kişisel veriler şunlardır:
+•	Adınız
+•	E-posta adresiniz
+•	Telefon numaranız
+•	Öğrenci bilgileriniz (Adı, E-posta adresi, telefon numarası)
+•	Ders ücreti bilgisi
+•	Ders programı bilgisi
+Bu kişisel verileriniz, uygulamamızda size hizmet sunmak için kullanılmaktadır. Özellikle, uygulamamızda öğretmenlerin öğrencilerinin kişisel bilgilerini kaydedebilmeleri, öğretmenlerin ders programlarını oluşturabilmeleri ve öğrencilerin bu ders programlarını görebilmeleri için kişisel verileriniz işlenmektedir.
+3.	Kişisel Verilerin Aktarımı
+Kişisel verileriniz, uygulamamızın kullanımı için gerekli olduğu sürece uygulamamızın sunucusunda depolanmaktadır. Ayrıca, e-posta adresinize gönderilen onay istekleri, öğretmeninizin adı ve telefon numarası gibi bazı kişisel bilgileriniz, öğrenci isteği kabul edildiğinde öğretmeninizin hesabında görüntülenebilmektedir.
+4.	Kişisel Verilerin Saklanması
+Kişisel verileriniz, uygulamamızın sunucusunda güvenli bir şekilde saklanmaktadır. Verileriniz, gizliliklerinin korunması ve yetkisiz erişime karşı korunması için uygun güvenlik önlemleri alınmaktadır.
+5.	Kişisel Verilerin İşlenmesine İlişkin Haklarınız
+KVKK kapsamında, kişisel verilerinizin işlenmesine ilişkin olarak aşağıdaki haklara sahipsiniz:
+•	Kişisel verilerinize erişme hakkı: Hangi kişisel verilerinize sahip olduğumuzu öğrenmek için her zaman bize başvurabilirsiniz.
+•	Kişisel verilerinizin düzeltilmesi: Kişisel verilerinizin yanlış olması durumunda, bu bilgileri güncellememizi veya düzeltmemizi talep edebilirsiniz.
+•	Kişisel verilerinizin silinmesi hakkı: Kişisel verilerinizin işlenmesine artık ihtiyaç yoksa veya verilerinizin işlenmesi ile ilgili itirazınız varsa, kişisel verilerinizin silinmesini talep edebilirsiniz.
+•	Kişisel verilerinizin işlenmesine itiraz etme hakkı: Kişisel verilerinizi belirli bir amaç için işlememize itiraz edebilirsiniz.
+•	Kişisel verilerinizin taşınabilirliği hakkı: Kişisel verilerinizi bir başka veri sorumlusuna taşımanızı veya transfer etmenizi sağlayacak bir format talep edebilirsiniz.
+Bu haklarınızı kullanmak isterseniz, bu talebinizi bize e-posta veya posta yoluyla iletebilirsiniz. Size yanıt vermek ve talebinizi yerine getirmek için elimizden geleni yapacağız.
+6.	Aydınlatma metni ile ilgili değişiklikler
+Bu aydınlatma metninin güncellenmesi gerektiğinde, sizi bu değişikliklerden haberdar etmek için bildirimde bulunacağız. Ayrıca, güncellenmiş aydınlatma metni her zaman web sitemizde mevcut olacaktır.
+Bu aydınlatma metni ile ilgili herhangi bir sorunuz veya endişeniz varsa, bize her zaman e-posta veya posta yoluyla ulaşabilirsiniz.
+
+Bu politika 2023-02-21 tarihinden itibaren geçerlidir.
+
+Bize Ulaşın
+
+Gizlilik Politikamla ilgili herhangi bir sorunuz veya öneriniz varsa, melihhakanpektas@gmail.com adresinden bana ulaşmaktan çekinmeyin.
