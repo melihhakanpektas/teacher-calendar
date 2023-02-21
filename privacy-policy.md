@@ -1,4 +1,4 @@
-ENGLISH
+ENGLISH 
 Privacy Policy
 
 Melih Hakan Pektas built the Teacher Calendar app as a Freemium app. This SERVICE is provided by Melih Hakan Pektas at no cost and is intended for use as is.
