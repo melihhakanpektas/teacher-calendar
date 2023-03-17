@@ -12,7 +12,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 Information Collection and Use
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to name, email, phone number. The information that I request will be retained on your device and is not collected by me in any way.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to name, email, phone number, contact list and image. The information that I request will be retained on your device and is not collected by me in any way.
 
 The app does use third-party services that may collect information used to identify you.
 
@@ -76,10 +76,10 @@ You can use the following contact information to get in touch with Melih Hakan P
 Email: melihhakanpektas@gmail.com
 Processed Personal Data and Processing Purposes
 The personal data we collect during your use of our application are as follows:
-• Your name
-• Your email address
-• Your phone number
-• Student information (Name, email address, phone number)
+• Name
+• Email address
+• Phone number
+• Contact list
 • Lesson fee information
 • Lesson schedule information
 Your personal data is used to provide you with a service in our application. In particular, your personal data is processed so that teachers can record their students' personal information, create their lesson schedules, and students can see these lesson schedules in our application.
@@ -120,7 +120,7 @@ Bu Gizlilik Politikası'nda tanımlanan terimler, öğretmen takvimine erişileb
 
 Bilgi Toplama ve Kullanımı
 
-Hizmetimizi kullanırken daha iyi bir deneyim için ad, e-posta, telefon numarası gibi kişisel kimlik bilgilerinizi belirtmenizi isteyebilirim. İstediğim bilgiler, cihazınızda saklanacak ve herhangi bir şekilde benden toplanmayacaktır.
+Hizmetimizi kullanırken daha iyi bir deneyim için ad, e-posta, telefon numarası, rehber listesi ve resimler gibi kişisel kimlik bilgilerinizi belirtmenizi isteyebilirim. İstediğim bilgiler, cihazınızda saklanacak ve herhangi bir şekilde benden toplanmayacaktır.
 
 Uygulama, sizi tanımlamak için kullanılabilecek bilgileri toplayabilecek üçüncü taraf hizmetlerini kullanır.
 
@@ -168,26 +168,27 @@ Melih Hakan Pektaş ile iletişime geçmek için aşağıdaki iletişim bilgiler
 E-posta: melihhakanpektas@gmail.com
 2.	İşlenen Kişisel Veriler ve İşleme Amaçları
 Uygulamamızı kullanmanız sırasında topladığımız kişisel veriler şunlardır:
-•	Adınız
-•	E-posta adresiniz
-•	Telefon numaranız
-•	Öğrenci bilgileriniz (Adı, E-posta adresi, telefon numarası)
-•	Ders ücreti bilgisi
-•	Ders programı bilgisi
+• Adınız
+• E-posta adresiniz
+• Telefon numaranız
+• Rehber listesi
+• Resimler
+• Ders ücreti bilgisi
+• Ders programı bilgisi
 Bu kişisel verileriniz, uygulamamızda size hizmet sunmak için kullanılmaktadır. Özellikle, uygulamamızda öğretmenlerin öğrencilerinin kişisel bilgilerini kaydedebilmeleri, öğretmenlerin ders programlarını oluşturabilmeleri ve öğrencilerin bu ders programlarını görebilmeleri için kişisel verileriniz işlenmektedir.
-3.	Kişisel Verilerin Aktarımı
+3. Kişisel Verilerin Aktarımı
 Kişisel verileriniz, uygulamamızın kullanımı için gerekli olduğu sürece uygulamamızın sunucusunda depolanmaktadır. Ayrıca, e-posta adresinize gönderilen onay istekleri, öğretmeninizin adı ve telefon numarası gibi bazı kişisel bilgileriniz, öğrenci isteği kabul edildiğinde öğretmeninizin hesabında görüntülenebilmektedir.
-4.	Kişisel Verilerin Saklanması
+4. Kişisel Verilerin Saklanması
 Kişisel verileriniz, uygulamamızın sunucusunda güvenli bir şekilde saklanmaktadır. Verileriniz, gizliliklerinin korunması ve yetkisiz erişime karşı korunması için uygun güvenlik önlemleri alınmaktadır.
-5.	Kişisel Verilerin İşlenmesine İlişkin Haklarınız
+5. Kişisel Verilerin İşlenmesine İlişkin Haklarınız
 KVKK kapsamında, kişisel verilerinizin işlenmesine ilişkin olarak aşağıdaki haklara sahipsiniz:
-•	Kişisel verilerinize erişme hakkı: Hangi kişisel verilerinize sahip olduğumuzu öğrenmek için her zaman bize başvurabilirsiniz.
-•	Kişisel verilerinizin düzeltilmesi: Kişisel verilerinizin yanlış olması durumunda, bu bilgileri güncellememizi veya düzeltmemizi talep edebilirsiniz.
-•	Kişisel verilerinizin silinmesi hakkı: Kişisel verilerinizin işlenmesine artık ihtiyaç yoksa veya verilerinizin işlenmesi ile ilgili itirazınız varsa, kişisel verilerinizin silinmesini talep edebilirsiniz.
-•	Kişisel verilerinizin işlenmesine itiraz etme hakkı: Kişisel verilerinizi belirli bir amaç için işlememize itiraz edebilirsiniz.
-•	Kişisel verilerinizin taşınabilirliği hakkı: Kişisel verilerinizi bir başka veri sorumlusuna taşımanızı veya transfer etmenizi sağlayacak bir format talep edebilirsiniz.
+• Kişisel verilerinize erişme hakkı: Hangi kişisel verilerinize sahip olduğumuzu öğrenmek için her zaman bize başvurabilirsiniz.
+• Kişisel verilerinizin düzeltilmesi: Kişisel verilerinizin yanlış olması durumunda, bu bilgileri güncellememizi veya düzeltmemizi talep edebilirsiniz.
+• Kişisel verilerinizin silinmesi hakkı: Kişisel verilerinizin işlenmesine artık ihtiyaç yoksa veya verilerinizin işlenmesi ile ilgili itirazınız varsa, kişisel verilerinizin silinmesini talep edebilirsiniz.
+• Kişisel verilerinizin işlenmesine itiraz etme hakkı: Kişisel verilerinizi belirli bir amaç için işlememize itiraz edebilirsiniz.
+• Kişisel verilerinizin taşınabilirliği hakkı: Kişisel verilerinizi bir başka veri sorumlusuna taşımanızı veya transfer etmenizi sağlayacak bir format talep edebilirsiniz.
 Bu haklarınızı kullanmak isterseniz, bu talebinizi bize e-posta veya posta yoluyla iletebilirsiniz. Size yanıt vermek ve talebinizi yerine getirmek için elimizden geleni yapacağız.
-6.	Aydınlatma metni ile ilgili değişiklikler
+6. Aydınlatma metni ile ilgili değişiklikler
 Bu aydınlatma metninin güncellenmesi gerektiğinde, sizi bu değişikliklerden haberdar etmek için bildirimde bulunacağız. Ayrıca, güncellenmiş aydınlatma metni her zaman web sitemizde mevcut olacaktır.
 Bu aydınlatma metni ile ilgili herhangi bir sorunuz veya endişeniz varsa, bize her zaman e-posta veya posta yoluyla ulaşabilirsiniz.
 
