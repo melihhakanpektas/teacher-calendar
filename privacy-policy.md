@@ -120,7 +120,7 @@ Bu Gizlilik Politikası'nda tanımlanan terimler, öğretmen takvimine erişileb
 
 Bilgi Toplama ve Kullanımı
 
-Hizmetimizi kullanırken daha iyi bir deneyim için ad, e-posta, telefon numarası, rehber listesi ve resimler gibi kişisel kimlik bilgilerinizi belirtmenizi isteyebilirim. İstediğim bilgiler, cihazınızda saklanacak ve herhangi bir şekilde benden toplanmayacaktır.
+Hizmetimizi kullanırken daha iyi bir deneyim için ad, e-posta, telefon numarası, kişi listesi ve resimler gibi kişisel kimlik bilgilerinizi belirtmenizi isteyebilirim. İstediğim bilgiler, cihazınızda saklanacak ve herhangi bir şekilde benden toplanmayacaktır.
 
 Uygulama, sizi tanımlamak için kullanılabilecek bilgileri toplayabilecek üçüncü taraf hizmetlerini kullanır.
 
@@ -171,7 +171,7 @@ Uygulamamızı kullanmanız sırasında topladığımız kişisel veriler şunla
 • Adınız
 • E-posta adresiniz
 • Telefon numaranız
-• Rehber listesi
+• Kişi listesi
 • Resimler
 • Ders ücreti bilgisi
 • Ders programı bilgisi
