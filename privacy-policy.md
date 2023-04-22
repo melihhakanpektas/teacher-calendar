@@ -97,7 +97,7 @@ If you want to exercise these rights, you can send your request to us via email 
 When it is necessary to update this Disclosure Text, we will notify you of these changes. Also, the updated Disclosure Text will always be available on our website.
 If you have any questions or concerns about this Disclosure Text, you can always contact us via email or post.
 
-This policy and information text is effective as of 2023-01-24
+This policy and information text is effective as of 2023-04-22
 
 ## Contact Us
 
